@@ -1,0 +1,13 @@
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\bin\Debug\netcoreapp3.1\C# Tuto.exe
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\bin\Debug\netcoreapp3.1\C# Tuto.deps.json
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\bin\Debug\netcoreapp3.1\C# Tuto.runtimeconfig.json
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\bin\Debug\netcoreapp3.1\C# Tuto.runtimeconfig.dev.json
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\bin\Debug\netcoreapp3.1\C# Tuto.dll
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\bin\Debug\netcoreapp3.1\C# Tuto.pdb
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\obj\Debug\netcoreapp3.1\C# Tuto.csprojAssemblyReference.cache
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\obj\Debug\netcoreapp3.1\C# Tuto.AssemblyInfoInputs.cache
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\obj\Debug\netcoreapp3.1\C# Tuto.AssemblyInfo.cs
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\obj\Debug\netcoreapp3.1\C# Tuto.csproj.CoreCompileInputs.cache
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\obj\Debug\netcoreapp3.1\C# Tuto.dll
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\obj\Debug\netcoreapp3.1\C# Tuto.pdb
+C:\Users\TheNe\OneDrive\Desktop\C# Tuto\obj\Debug\netcoreapp3.1\C# Tuto.genruntimeconfig.cache
